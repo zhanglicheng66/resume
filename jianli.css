@@ -183,3 +183,8 @@ hr{
 .userCard > footer.media > a:hover{
   background: #E6686A;
 }
+.picture{
+  background-image:url(./img/1.jpg.jpg);
+  height: 300px;
+  width: 300px;
+}
